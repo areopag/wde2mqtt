@@ -1,5 +1,8 @@
 # wde2mqtt
-Reads data from a WDE-USB1 radio weather data receiver and publish the values to an MQTT broker.
+Reads data from a WDE-USB1 radio weather data receiver and publishes the values to an MQTT broker.
+
+## Howto
+coming soon ;-)
 
 ## Used libraries
 
