@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <comPort>COM3</comPort>
+  <mqttServer>172.20.100.101</mqttServer>
+  <mqttTopicPrefix>wde</mqttTopicPrefix>
+</Config>
